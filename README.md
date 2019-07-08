@@ -38,6 +38,7 @@ qemu-system-x86_64.exe -fda bootsect.bin -fdb kernel.bin
   clear - очистка экрана
   
   shutdown - выключение системы
+  
 
 Для работы системы были реализованы:
 
